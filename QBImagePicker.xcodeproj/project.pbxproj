@@ -119,6 +119,7 @@
 		AACD2F4E1AD12E010029BE0B /* QBImagePickerDemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = QBImagePickerDemoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AACD2F531AD12E010029BE0B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AACD2F541AD12E010029BE0B /* QBImagePickerDemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = QBImagePickerDemoTests.m; sourceTree = "<group>"; };
+		F9BD152B1CACF07D001D4824 /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/QBImagePicker.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -432,6 +433,7 @@
 				"zh-Hans",
 				es,
 				de,
+				ko,
 			);
 			mainGroup = AACD2EE41AD12DB10029BE0B;
 			productRefGroup = AACD2EEF1AD12DB10029BE0B /* Products */;
@@ -553,6 +555,7 @@
 				AA8229A01B57B284008BFB6E /* zh-Hans */,
 				AA8229A11B57B296008BFB6E /* es */,
 				AA8229A21B57B29E008BFB6E /* de */,
+				F9BD152B1CACF07D001D4824 /* ko */,
 			);
 			name = QBImagePicker.strings;
 			sourceTree = "<group>";
